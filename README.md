@@ -2,7 +2,7 @@
 - Experienced Frontend Engineer
 - React, HTML, CSS, and JavaScript, Python and NEXT.JS 🧑🏽‍💻
 - Interested in learning AI, Blockchain, Cybersecurity, and App Development. 🏫
-- Other Interest of mine are FinTech, History, Travel and Sports 😁
+- Other Interest of mine are Finance, History, Travel and Sports 😁
 - Love Feedback and always open to collaborate or just connect with common interest. 🗣️
 - You can contact me @tysocialhq@gmail.com 📩
 <!---
