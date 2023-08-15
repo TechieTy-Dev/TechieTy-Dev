@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TechieTy-Dev
 - Experienced Frontend Engineer
-- React, HTML, CSS, and JavaScript and backend technologies
-- Technologies are AI, Blockchain, Cybersecurity, and App Development. 
+- React, HTML, CSS, and JavaScript, Python and NEXT.JS.
+- Interested in learning AI, Blockchain, Cybersecurity, and App Development. 
 - Love Feedback and always open to collaborate.
 - You can contact me @tysocialhq@gmail.com
 <!---
