@@ -2,8 +2,8 @@
 - Experienced Frontend Engineer
 - React, HTML, CSS, and JavaScript, Python and NEXT.JS 🧑🏽‍💻
 - Interested in learning AI, Blockchain, Cybersecurity, and App Development. 🏫
-- Love Feedback and always open to collaborate. 🗣️
-- Other Interest of mine is FinTech, History and Sports 😁
+- Other Interest of mine are FinTech, History, Travel and Sports 😁
+- Love Feedback and always open to collaborate or just connect with common interest. 🗣️
 - You can contact me @tysocialhq@gmail.com 📩
 <!---
 TechieTy-Dev/TechieTy-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
